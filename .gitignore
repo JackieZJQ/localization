@@ -1,4 +1,9 @@
 #
+build
+install
+log
+
+#
 *.vscode
 
 # Prerequisites
